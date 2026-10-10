@@ -1,0 +1,15 @@
+{
+  "category.gojo": "Gojo Abilities",
+  "key.gojo.blue": "Blue (Ao)",
+  "key.gojo.red": "Red (Aka)",
+  "key.gojo.purple": "Purple (Murasaki)",
+  "key.gojo.infinity": "Infinity (toggle)",
+  "key.gojo.reverse": "Reverse Cursed Technique",
+  "key.gojo.blackflash": "Black Flash",
+  "key.gojo.teleport": "Teleport",
+  "key.gojo.domain": "Domain: Unlimited Void",
+  "key.gojo.simple": "Simple Domain",
+  "key.gojo.sixeyes": "Six Eyes (toggle)",
+  "key.gojo.menu": "Open Gojo Menu",
+  "entity.gojo.orb": "Cursed Orb"
+}

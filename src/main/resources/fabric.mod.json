@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "gojo",
+  "version": "${version}",
+  "name": "Gojo Abilities",
+  "description": "Gojo Satoru abilities v5: Blue, Red, Purple (camera/fixed aim), persistent Black Flash, Six Eyes, Infinity, Teleport, Domain Expansion.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.gojo.GojoMod"],
+    "client": ["com.gojo.client.GojoClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
